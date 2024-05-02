@@ -2,9 +2,9 @@
   "name" : "GitHub Actions",
   "type" : "github",
   "url" : "https://FutureAQA.github.io/API_testing_project",
-  "buildOrder" : 213,
-  "buildName" : "GitHub Actions Run #8903487408",
-  "buildUrl" : "https://github.com/FutureAQA/API_testing_project/actions/runs/8903487408",
+  "buildOrder" : 214,
+  "buildName" : "GitHub Actions Run #8916777145",
+  "buildUrl" : "https://github.com/FutureAQA/API_testing_project/actions/runs/8916777145",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://FutureAQA.github.io/API_testing_project/213/"
+  "reportUrl" : "https://FutureAQA.github.io/API_testing_project/214/"
 } ]
